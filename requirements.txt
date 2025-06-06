@@ -1,0 +1,8 @@
+streamlit>=1.30.0
+easyocr>=1.7.1
+Pillow>=10.0.0
+numpy>=1.24.0
+pandas>=2.0.0
+sqlalchemy>=2.0.0
+fpdf>=1.7.2
+pymysql>=1.1.0
