@@ -27,6 +27,8 @@ This is a powerful Streamlit web application that uses **EasyOCR** to extract an
 - **FPDF** for PDF generation
 - **MySQL** (optional)
 
+## Application link
+https://buisnesscardreader-8elqxekhzwldmagly9qzya.streamlit.app/
 ---
 
 
