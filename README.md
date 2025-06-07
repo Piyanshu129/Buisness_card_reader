@@ -50,3 +50,8 @@ pip install -r requirements.txt
 
 streamlit run buisnesscard.py
 
+or
+
+docker build -t ocr-card-reader .
+docker run -p 8501:8501 ocr-card-reader
+
